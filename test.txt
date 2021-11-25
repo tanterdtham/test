@@ -1,1 +1,6 @@
-aaaaa
+git init 
+git add
+git commit -m "xxx"
+git log
+git status
+git checkout
